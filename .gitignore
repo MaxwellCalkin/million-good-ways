@@ -1,0 +1,13 @@
+node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.DS_Store
+coverage
+server/src/data/*.db
+server/tests/test.db
+client/dist
+server/node_modules
+client/node_modules
+.env
